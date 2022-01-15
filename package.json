@@ -1,0 +1,25 @@
+{
+  "name": "@shkrzy/test-web",
+  "version": "1.0.0",
+  "description": "Set of javascript libraries",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sharkzt/web.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alexander Pysarchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharkzt/web/issues"
+  },
+  "homepage": "https://github.com/Sharkzt/web#readme"
+}
